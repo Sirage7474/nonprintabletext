@@ -30,6 +30,7 @@ clear
 
 echo "[*] Type your text. Cleaned version will appear instantly (Ctrl+C to exit)."
 echo "[*] Add '--show' to display hidden Unicode codepoints."
+echo "[*] Made By Sirage7474."
 echo
 
 while true; do
